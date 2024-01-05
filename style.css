@@ -72,3 +72,13 @@
   background-size: 30px;
   cursor: pointer;
 }
+
+.result{
+  font-size: 25px;
+  color: #251a35;
+  font-weight: 600;
+}
+
+.result span{
+  color: rgb(87, 53, 22);
+}
